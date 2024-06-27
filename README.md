@@ -23,6 +23,6 @@ $ mv include/* /usr/local/include && \
 $ rm -f protoc-*.zip
 ```
 ## Documentation & Guides
-[Part 1](https://duy-lee.vercel.app/post/xay-dung-api-gateway-microservice-voi-nestjs-va-grpc-part-12/)
+[API Gateway](https://duy-lee.vercel.app/post/xay-dung-api-gateway-microservice-voi-nestjs-va-grpc-part-12/)
 
-[Part 2](https://duy-lee.vercel.app/post/xay-dung-cac-microservice-authentication-order-product-voi-nestjs-va-grpc-part-22/)
+[Services](https://duy-lee.vercel.app/post/xay-dung-cac-microservice-authentication-order-product-voi-nestjs-va-grpc-part-22/)
